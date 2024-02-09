@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br />
-###<a href="https://github.com/Thelistnr">I'm Elijah, A Frontend Web Developer and, aspiring Game Dev.</a>
+###[I'm Elijah, A Frontend Web Developer and, aspiring Game Dev.](https://github.com/Thelistnr)
 <hr/>
 
 - 🔭 I’m currently working on an e-commerce platform that'll revolutionize ✨ _Okrika_ ✨...
