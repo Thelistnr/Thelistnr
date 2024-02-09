@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm self-taught and have experience in quite a few basic non-code tech fields...
 -->
-<a href="https://icons8.com/icon/wPohyHO_qO1a/react" target="blank"><img align="center" src="https://icons8.com/icon/wPohyHO_qO1a/react" height="100" /></a>
+<a href="https://img.icons8.com/officel/16/000000/react.png" target="blank"><img align="center" src="https://img.icons8.com/officel/16/000000/react.png" height="100" /></a>
