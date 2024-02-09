@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <a href="https://img.icons8.com/officel/16/000000/react.png" target="blank"><img align="center" src="https://img.icons8.com/officel/16/000000/react.png" height="50" /></a>
 
 ![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelistnr&show_icons=true&theme=dark)
-![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thelistnr&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
 
