@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+**Thelistnr/Thelistnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 <br />
 <code><a href="https://github.com/Thelistnr">I'm Elijah, A Frontend Web Developer and, aspiring Game Dev.</a></code>
 <hr/>
