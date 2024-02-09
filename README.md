@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br />
 
-### I'm Elijah, A Frontend Web Developer and, aspiring Game Dev.
+# I'm Elijah, A Frontend Web Developer and, aspiring Game Dev.
 <hr/>
 
 - 🔭 I’m currently working on an e-commerce platform that'll revolutionize ✨ _Okrika_ ✨...
