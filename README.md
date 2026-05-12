@@ -3,8 +3,8 @@
 
 # I'm Elijah, A Frontend Web Developer and, aspiring Game Dev.
 
-- 🔭 I’m currently working on an e-commerce platform that'll revolutionize ✨ _Okrika_ ✨...
-- 🌱 I’m currently learning to Explore TypeScript for more robust code, Deep-diving into performance optimization techniques, and experimenting with NextJs.
+- 🔭 Working on: An e-commerce solution focused on revolutionizing the ✨ Okrika ✨ industry through better digital infrastructure.
+- 🌱 Learning: Exploring Test-Driven Development (TDD) and focusing on refining my workflow for high-performance web applications.
 - 👯 I’m looking to collaborate on Open-source projects focused on accessibility and UI/UX best practices, and Personal projects where we can combine design and development expertise.
 - 🤔 I’m seeking help with Implementing complex UI animations and interactions...
 - 😄 Pronouns: He/Him.
